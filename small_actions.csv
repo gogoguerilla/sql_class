@@ -1,3 +1,4 @@
+name,product,action,price
 Gina,Orange,view,0.99
 Dave,Apricot,addtocart,0.99
 Gina,Mango,purchase,0.99
